@@ -1,0 +1,10 @@
+Flask==3.0.3
+tensorflow==2.19.0
+keras==3.7.0
+numpy>=1.23.5
+Pillow>=10.0.0
+pillow-heif>=0.15.0
+opencv-python>=4.1.2
+Werkzeug>=3.0.0
+MarkupSafe>=2.1.0
+optree>=0.11.0
